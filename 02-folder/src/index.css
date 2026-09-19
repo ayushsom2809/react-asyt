@@ -1,0 +1,19 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(27, 49, 63);
+}
+
+.card{
+  background-color: rgb(175, 47, 68);
+  border-radius: 10px; 
+  margin: 20px;
+  padding: 20px;
+}
+
+.navbar{
+  background-color: rgb(175, 190, 200);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
